@@ -8,13 +8,13 @@
 
 - 💬 Ask me about **React, Open EDX, Node, Solidity, and GraphQL**
 
-- 📫 How to reach me **stephen001.tech@gmail.com**, **+1 214 390 7991**
+- 📫 How to reach me **chase.allen.tech@gmail.com**, **+1 214 390 7991**
 
-- 📄 Know about my experiences [https://stephen07.netlify.app](https://stephen07.netlify.app)
+- 📄 Know about my experiences [https://chase.allen.netlify.app](https://chaseallen.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stephen07-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chase" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chase-allen-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chase" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
