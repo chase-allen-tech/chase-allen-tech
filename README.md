@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chase.allen.tech@gmail.com**, **+1 214 390 7991**
 
-- 📄 Know about my experiences [https://chase.allen.netlify.app](https://chaseallen.netlify.app)
+- 📄 Know about my experiences [https://chaseallen.netlify.app](https://chaseallen.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
