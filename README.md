@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Open EDX, Node, Solidity, and GraphQL**
 
-- 📫 How to reach me **chase.allen.tech@gmail.com**, **+1 214 390 7991**
+- 📫 How to reach me **chase.allen.tech@gmail.com**, **+1 650 385 8062**
 
 - 📄 Know about my experiences [https://chaseallen.netlify.app](https://chaseallen.netlify.app)
 
