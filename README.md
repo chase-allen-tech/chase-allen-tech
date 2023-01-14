@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
 <h3>👀 Open to work!</h3>
-<h4 align="center">I am a passionate Software Engineer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +8 years of experiences in web & app program, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern</h4>
+<h4 align="center">I am a passionate Software Engineer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +5 years of experiences in web & app program, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern</h4>
 
 <p align="center">
 <a href="https://app.daily.dev/chase"><img src="https://api.daily.dev/devcards/9de78b8735c845efa572a350d6376e27.png?r=efo" width="400" alt="Chase's Dev Card"/></a>
