@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/chase"><img src="https://api.daily.dev/devcards/9de78b8735c845efa572a350d6376e27.png?r=efo" width="400" alt="Chase's Dev Card"/></a>
 </p>
 
-- 💬 Ask me about **React, Open EDX, Node, Solidity, and GraphQL**
+- 💬 Ask me about **React, Golang, Node, Open EDX, GraphQL and AWS**
 
 - 📫 How to reach me **chase.allen.tech@gmail.com**, **+1 650 385 8062**
 
