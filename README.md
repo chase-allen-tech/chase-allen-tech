@@ -3,7 +3,7 @@
 <h4 align="center">A seasoned professional with over 7 years of experience in software development, specializing in web technologies. Committed to delivering high-quality solutions that blend technical expertise with creative innovation. Passionate about crafting efficient and user-centered web experiences.</h4>
 
 <p align="center">
-<a href="https://app.daily.dev/chase"><img src="https://api.daily.dev/devcards/9de78b8735c845efa572a350d6376e27.png?r=j6g" width="400" alt="Chase's Dev Card"/></a>
+<a href="https://app.daily.dev/chase"><img src="https://api.daily.dev/devcards/9de78b8735c845efa572a350d6376e27.png?r=dnv" width="400" alt="Chase's Dev Card"/></a>
 </p>
 
 
