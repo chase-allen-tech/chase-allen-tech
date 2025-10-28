@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Golang, Node, Open EDX, GraphQL and AWS**
 
-- 📫 How to reach me **chase.allen.tech@gmail.com**, **+1 650 385 8062**
+- 📫 How to reach me **chase.allen.tech@gmail.com**, **+1 678 250 8501**
 
 - 📄 Know about my experiences [https://chaseallen.netlify.app](https://chaseallen.netlify.app)
 
